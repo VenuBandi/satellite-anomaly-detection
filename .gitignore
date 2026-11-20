@@ -1,0 +1,8 @@
+data/
+mlruns/
+plots/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.DS_Store
